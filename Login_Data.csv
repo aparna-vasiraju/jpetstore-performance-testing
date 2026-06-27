@@ -1,0 +1,7 @@
+username,password,categoryName,productId,workingItemId
+j2ee,j2ee,FISH,FI-SW-01,EST-1
+perf_user1,perf123,FISH,FI-SW-01,EST-1
+perf_user2,perf123,DOGS,K9-BD-01,EST-6
+perf_user3,perf123,CATS,FL-DLH-02,EST-14
+perf_user4,perf123,BIRDS,AV-CB-01,EST-18
+perf_user5,perf123,REPTILES,RP-SN-01,EST-11
