@@ -3,7 +3,7 @@
 Real-time performance monitoring implemented using 
 JMeter → InfluxDB → Grafana pipeline.
 
-![Grafana Dashboard](screenshots/grafana_live_dashboard.png)
+![Grafana Dashboard](screenshots/grafana_live_dashboard.PNG)
 # JPetStore Performance Test Suite
 
 End-to-end performance test suite built with Apache JMeter for the JPetStore e-commerce application. Covers browsing and buying user flows with baseline, load, and stress test scenarios.
